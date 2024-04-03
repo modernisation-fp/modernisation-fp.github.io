@@ -2,6 +2,7 @@ backend:
   name: github
   repo: anthonygagnon8974548/anthonygagnon8974548.github.io
   branch: main # Branch to update (optional; defaults to master)
+  site_id: 43d698e6-74e2-4559-98f8-705f5c195ef8
 
 repo: "anthonygagnon8974548/anthonygagnon8974548.github.io"
 branch: "main"
