@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: "anthonygagnon8974548/anthonygagnon8974548.github.io"
+  repo: anthonygagnon8974548/anthonygagnon8974548.github.io
   branch: main # Branch to update (optional; defaults to master)
 
 repo: "anthonygagnon8974548/anthonygagnon8974548.github.io"
