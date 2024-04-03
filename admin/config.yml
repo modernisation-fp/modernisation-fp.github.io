@@ -3,7 +3,7 @@ backend:
   repo: "anthonygagnon8974548/anthonygagnon8974548.github.io"
   # branch: master # Branch to update (optional; defaults to master)
 
-repo: "anthonygagnon8974548.github.io"
+repo: "anthonygagnon8974548/anthonygagnon8974548.github.io"
 branch: "master"
 api_root: "https://api.github.com"
 site_domain: "anthonygagnon8974548.github.io"
