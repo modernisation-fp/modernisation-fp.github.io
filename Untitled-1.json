@@ -1,0 +1,3342 @@
+[
+   {
+     "id": 17453,
+     "date": "2024-04-11T14:51:28",
+     "date_gmt": "2024-04-11T14:51:28",
+     "guid": {
+       "rendered": "https://www.carrefourfp.ca/mfp/?p=17453"
+     },
+     "modified": "2024-04-11T16:39:16",
+     "modified_gmt": "2024-04-11T16:39:16",
+     "slug": "nouvelle-a-2",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2024/04/11/nouvelle-a-2/",
+     "title": {
+       "rendered": "Nouvelle A"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labor.\u003C/p\u003E\n\u003Cp\u003E\u003Cimg loading=\"lazy\" decoding=\"async\" class=\"wp-image-17454 aligncenter\" src=\"https://www.carrefourfp.ca/mfp/wp-content/uploads/2024/04/mfp-300x95.png\" alt=\"\" width=\"357\" height=\"113\" srcset=\"https://www.carrefourfp.ca/mfp/wp-content/uploads/2024/04/mfp-300x95.png 300w, https://www.carrefourfp.ca/mfp/wp-content/uploads/2024/04/mfp-768x243.png 768w, https://www.carrefourfp.ca/mfp/wp-content/uploads/2024/04/mfp.png 1022w\" sizes=\"(max-width: 357px) 100vw, 357px\" /\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EUn, deux, trois\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 4,
+     "featured_media": 9132,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "gallery",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [25, 28],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/17453"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/4"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=17453"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 3,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/17453/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17471,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/17453/revisions/17471"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9132"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=17453"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=17453"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=17453"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9132,
+           "date": "2019-06-09T12:21:53",
+           "slug": "blog-img1",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2024/02/01/nouvelle-a/blog-img1/",
+           "title": {
+             "rendered": "blog-img1"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2019/05/blog-img1.jpg",
+             "filesize": 98728,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img1-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 49585,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img1-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 4673,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img1-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 47065,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img1-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 16228,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img1-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 8638,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img1-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 68260,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img1-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 69768,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img1-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 63609,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img1-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 56259,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img1-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 53404,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img1-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 42185,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img1-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 34763,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img1-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 36764,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img1-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 30305,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img1-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 42185,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img1-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 16766,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img1-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 49267,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img1-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 7842,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img1.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9132"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9132"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   },
+   {
+     "id": 7470,
+     "date": "2024-02-01T03:02:04",
+     "date_gmt": "2024-02-01T03:02:04",
+     "guid": {
+       "rendered": "http://ninzio.com/startflow/?p=7470"
+     },
+     "modified": "2024-03-12T16:55:33",
+     "modified_gmt": "2024-03-12T16:55:33",
+     "slug": "nouvelle-a",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2024/02/01/nouvelle-a/",
+     "title": {
+       "rendered": "Nouvelle A"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Ch6\u003EWhat makes your product better than any other similar product?\u003C/h6\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 1,
+     "featured_media": 9132,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "gallery",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [25, 28],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/7470"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=7470"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 3,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/7470/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17366,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/7470/revisions/17366"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9132"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=7470"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=7470"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=7470"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9132,
+           "date": "2019-06-09T12:21:53",
+           "slug": "blog-img1",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2024/02/01/nouvelle-a/blog-img1/",
+           "title": {
+             "rendered": "blog-img1"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2019/05/blog-img1.jpg",
+             "filesize": 98728,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img1-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 49585,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img1-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 4673,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img1-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 47065,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img1-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 16228,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img1-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 8638,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img1-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 68260,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img1-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 69768,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img1-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 63609,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img1-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 56259,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img1-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 53404,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img1-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 42185,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img1-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 34763,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img1-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 36764,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img1-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 30305,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img1-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 42185,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img1-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 16766,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img1-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 49267,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img1-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 7842,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img1.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/05/blog-img1.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9132"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9132"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   },
+   {
+     "id": 5050,
+     "date": "2024-01-29T14:42:44",
+     "date_gmt": "2024-01-29T14:42:44",
+     "guid": {
+       "rendered": "http://ninzio.com/startflow/?p=5050"
+     },
+     "modified": "2024-03-12T16:55:53",
+     "modified_gmt": "2024-03-12T16:55:53",
+     "slug": "nouvelle-b",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-b/",
+     "title": {
+       "rendered": "Nouvelle B"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Ch6\u003EWhat makes your product better than any other similar product?\u003C/h6\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 1,
+     "featured_media": 9134,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "standard",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [25, 26],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5050"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=5050"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 2,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5050/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17357,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5050/revisions/17357"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9134"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=5050"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=5050"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=5050"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9134,
+           "date": "2019-06-09T12:22:34",
+           "slug": "blog-img2-2",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-b/blog-img2-2/",
+           "title": {
+             "rendered": "blog-img2"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2019/01/blog-img2.jpg",
+             "filesize": 74374,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img2-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 32206,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img2-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 3983,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img2-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 36834,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img2-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 13873,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img2-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 6660,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img2-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 52415,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img2-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 52446,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img2-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 45647,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img2-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 42326,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img2-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 39520,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img2-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 26586,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img2-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 22671,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img2-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 24057,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img2-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 21327,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img2-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 26586,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img2-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 13637,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img2-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 36895,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img2-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 6011,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img2.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img2.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9134"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9134"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   },
+   {
+     "id": 5048,
+     "date": "2024-01-29T14:42:18",
+     "date_gmt": "2024-01-29T14:42:18",
+     "guid": {
+       "rendered": "http://ninzio.com/startflow/?p=5048"
+     },
+     "modified": "2024-03-12T16:55:59",
+     "modified_gmt": "2024-03-12T16:55:59",
+     "slug": "nouvelle-c",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-c/",
+     "title": {
+       "rendered": "Nouvelle C"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Ch6\u003EWhat makes your product better than any other similar&nbsp;product?\u003C/h6\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 1,
+     "featured_media": 9135,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "standard",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [24, 25],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5048"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=5048"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 2,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5048/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17358,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5048/revisions/17358"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9135"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=5048"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=5048"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=5048"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9135,
+           "date": "2019-06-09T12:23:05",
+           "slug": "blog-img3-2",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-c/blog-img3-2/",
+           "title": {
+             "rendered": "blog-img3"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2019/01/blog-img3.jpg",
+             "filesize": 103400,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img3-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 50416,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img3-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 4934,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img3-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 49551,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img3-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 17326,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img3-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 9040,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img3-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 71535,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img3-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 72737,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img3-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 65156,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img3-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 57815,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img3-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 54247,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img3-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 42148,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img3-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 34901,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img3-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 37069,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img3-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 30882,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img3-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 42148,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img3-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 16371,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img3-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 50733,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img3-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 8374,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img3.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img3.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9135"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9135"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   },
+   {
+     "id": 5046,
+     "date": "2024-01-29T14:41:05",
+     "date_gmt": "2024-01-29T14:41:05",
+     "guid": {
+       "rendered": "http://ninzio.com/startflow/?p=5046"
+     },
+     "modified": "2024-03-12T16:56:04",
+     "modified_gmt": "2024-03-12T16:56:04",
+     "slug": "nouvelle-d",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-d/",
+     "title": {
+       "rendered": "Nouvelle D"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Ch6\u003EWhat makes your product better than any other similar product?\u003C/h6\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 1,
+     "featured_media": 9420,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "standard",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [26, 27],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5046"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=5046"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 2,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5046/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17359,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5046/revisions/17359"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9420"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=5046"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=5046"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=5046"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9420,
+           "date": "2019-06-15T07:43:04",
+           "slug": "blog-img4",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-d/blog-img4/",
+           "title": {
+             "rendered": "blog-img4"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2019/01/blog-img4.jpg",
+             "filesize": 70108,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img4-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 40207,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img4-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 3726,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img4-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 31904,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img4-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 10836,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img4-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 6600,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img4-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 47921,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img4-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 49628,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img4-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 47084,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img4-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 40263,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img4-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 38916,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img4-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 34332,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img4-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 26703,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img4-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 28466,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img4-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 22633,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img4-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 34332,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img4-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 10467,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img4-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 35546,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img4-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 6079,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img4.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img4.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9420"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9420"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   },
+   {
+     "id": 5044,
+     "date": "2024-01-29T14:40:28",
+     "date_gmt": "2024-01-29T14:40:28",
+     "guid": {
+       "rendered": "http://ninzio.com/startflow/?p=5044"
+     },
+     "modified": "2024-03-12T16:56:10",
+     "modified_gmt": "2024-03-12T16:56:10",
+     "slug": "nouvelle-e",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-e/",
+     "title": {
+       "rendered": "Nouvelle E"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Ch6\u003EWhat makes your product better than any other similar product?\u003C/h6\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 1,
+     "featured_media": 9423,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "standard",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [25, 26],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5044"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=5044"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 2,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5044/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17360,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5044/revisions/17360"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9423"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=5044"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=5044"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=5044"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9423,
+           "date": "2019-06-15T07:45:40",
+           "slug": "blog-img5",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-e/blog-img5/",
+           "title": {
+             "rendered": "blog-img5"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2019/01/blog-img5.jpg",
+             "filesize": 82709,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img5-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 44311,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img5-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 4422,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img5-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 39357,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img5-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 14193,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img5-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 7760,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img5-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 56916,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img5-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 56876,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img5-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 55671,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img5-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 49038,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img5-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 46902,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img5-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 37716,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img5-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 30932,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img5-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 32716,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img5-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 26775,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img5-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 37716,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img5-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 13226,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img5-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 43262,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img5-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 7227,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img5.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img5.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9423"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9423"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   },
+   {
+     "id": 5042,
+     "date": "2024-01-29T14:40:02",
+     "date_gmt": "2024-01-29T14:40:02",
+     "guid": {
+       "rendered": "http://ninzio.com/startflow/?p=5042"
+     },
+     "modified": "2024-03-12T16:56:15",
+     "modified_gmt": "2024-03-12T16:56:15",
+     "slug": "nouvelle-f",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-f/",
+     "title": {
+       "rendered": "Nouvelle F"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Ch6\u003EWhat makes your product better than any other similar product?\u003C/h6\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 1,
+     "featured_media": 9424,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "standard",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [24, 25],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5042"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=5042"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 2,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5042/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17361,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/5042/revisions/17361"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9424"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=5042"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=5042"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=5042"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9424,
+           "date": "2019-06-15T07:46:56",
+           "slug": "blog-img6",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2024/01/29/nouvelle-f/blog-img6/",
+           "title": {
+             "rendered": "blog-img6"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2019/01/blog-img6.jpg",
+             "filesize": 71736,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img6-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 40345,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img6-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 3951,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img6-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 33651,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img6-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 11735,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img6-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 6898,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img6-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 49857,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img6-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 50451,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img6-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 47858,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img6-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 41271,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img6-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 39731,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img6-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 35800,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img6-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 27543,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img6-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 29222,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img6-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 22880,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img6-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 35800,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img6-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 10973,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img6-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 36471,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img6-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 6360,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img6.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2019/01/blog-img6.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9424"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9424"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   },
+   {
+     "id": 897,
+     "date": "2023-10-03T15:21:25",
+     "date_gmt": "2023-10-03T15:21:25",
+     "guid": {
+       "rendered": "http://ninzio.com/startflow/?p=897"
+     },
+     "modified": "2024-03-12T16:56:25",
+     "modified_gmt": "2024-03-12T16:56:25",
+     "slug": "nouvelle-g",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2023/10/03/nouvelle-g/",
+     "title": {
+       "rendered": "Nouvelle G"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Ch6\u003EWhat makes your product better than any other similar product?\u003C/h6\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 1,
+     "featured_media": 9428,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "standard",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [24, 26],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/897"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=897"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 2,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/897/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17362,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/897/revisions/17362"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9428"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=897"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=897"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=897"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9428,
+           "date": "2019-06-15T07:49:53",
+           "slug": "blog-img7",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2023/10/03/nouvelle-g/blog-img7/",
+           "title": {
+             "rendered": "blog-img7"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2017/10/blog-img7.jpg",
+             "filesize": 44265,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img7-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 23181,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img7-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 3078,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img7-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 23643,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img7-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 9214,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img7-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 5051,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img7-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 33602,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img7-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 33257,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img7-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 29878,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img7-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 27757,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img7-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 26274,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img7-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 19451,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img7-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 16904,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img7-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 17929,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img7-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 15036,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img7-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 19451,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img7-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 9097,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img7-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 24518,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img7-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 4624,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img7.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img7.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9428"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9428"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   },
+   {
+     "id": 895,
+     "date": "2023-10-03T15:20:37",
+     "date_gmt": "2023-10-03T15:20:37",
+     "guid": {
+       "rendered": "http://ninzio.com/startflow/?p=895"
+     },
+     "modified": "2024-03-12T16:56:32",
+     "modified_gmt": "2024-03-12T16:56:32",
+     "slug": "nouvelle-h",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2023/10/03/nouvelle-h/",
+     "title": {
+       "rendered": "Nouvelle H"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Ch6\u003EWhat makes your product better than any other similar product?\u003C/h6\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 1,
+     "featured_media": 9430,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "standard",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [27, 28],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/895"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=895"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 2,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/895/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17363,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/895/revisions/17363"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9430"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=895"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=895"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=895"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9430,
+           "date": "2019-06-15T07:51:30",
+           "slug": "blog-img8",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2023/10/03/nouvelle-h/blog-img8/",
+           "title": {
+             "rendered": "blog-img8"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2017/10/blog-img8.jpg",
+             "filesize": 77815,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img8-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 35747,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img8-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 4304,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img8-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 36785,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img8-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 13833,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img8-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 7324,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img8-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 52377,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img8-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 52635,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img8-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 46130,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img8-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 42138,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img8-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 39797,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img8-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 29643,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img8-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 25422,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img8-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 26875,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img8-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 23253,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img8-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 29643,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img8-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 14124,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img8-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 37143,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img8-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 6752,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img8.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img8.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9430"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9430"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   },
+   {
+     "id": 887,
+     "date": "2023-10-03T15:19:11",
+     "date_gmt": "2023-10-03T15:19:11",
+     "guid": {
+       "rendered": "http://ninzio.com/startflow/?p=887"
+     },
+     "modified": "2024-03-12T16:56:39",
+     "modified_gmt": "2024-03-12T16:56:39",
+     "slug": "nouvelle-j",
+     "status": "publish",
+     "type": "post",
+     "link": "https://www.carrefourfp.ca/mfp/2023/10/03/nouvelle-j/",
+     "title": {
+       "rendered": "Nouvelle J"
+     },
+     "content": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EI’ve faced that chaos. It’s the chaos of features, ideas and dreams that clouds your basic idea — the problem you’re solving. One of the ways through that chaos is to sit down and answer the 5 questions below:\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESimple right? You’ve to be certain of the questions below, before going to the next stage. Below are the questions, explained.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EBy way of example, we’ll be using a Netflix/Prime/Hulu recommendation app — that tracks your series movies views and does a better job of recommending series/movies for you to watch.\u003C/p\u003E\n\u003Ch6\u003EWhat makes your product better than any other similar product?\u003C/h6\u003E\n\u003Cp\u003EHere you’ll determine what differentiates your product. Simply put, if your product is doing something better than those in the market, you’re likely to attract those users into your product. Competition analysis is important here. Use the competitor products for a few days to understand how they function, what they lack, before you put the features here.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "excerpt": {
+       "rendered": "\u003Cp\u003EEt minim consequat qui reprehenderit in. Voluptate consectetur excepteur ut laborum ea ex elit ea lorem excepteur occaecat et cupidatat. Labore duis elit nulla nulla voluptate incididunt mol mollit ut fugiat in incididunt excepteur commodo ad culpa labore labore.\u003C/p\u003E\n",
+       "protected": false
+     },
+     "author": 1,
+     "featured_media": 9434,
+     "comment_status": "closed",
+     "ping_status": "open",
+     "sticky": false,
+     "template": "",
+     "format": "standard",
+     "meta": {
+       "footnotes": ""
+     },
+     "categories": [1],
+     "tags": [24, 26],
+     "_links": {
+       "self": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/887"
+         }
+       ],
+       "collection": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts"
+         }
+       ],
+       "about": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/post"
+         }
+       ],
+       "author": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+         }
+       ],
+       "replies": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=887"
+         }
+       ],
+       "version-history": [
+         {
+           "count": 2,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/887/revisions"
+         }
+       ],
+       "predecessor-version": [
+         {
+           "id": 17365,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/posts/887/revisions/17365"
+         }
+       ],
+       "wp:featuredmedia": [
+         {
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9434"
+         }
+       ],
+       "wp:attachment": [
+         {
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media?parent=887"
+         }
+       ],
+       "wp:term": [
+         {
+           "taxonomy": "category",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/categories?post=887"
+         },
+         {
+           "taxonomy": "post_tag",
+           "embeddable": true,
+           "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/tags?post=887"
+         }
+       ],
+       "curies": [
+         {
+           "name": "wp",
+           "href": "https://api.w.org/{rel}",
+           "templated": true
+         }
+       ]
+     },
+     "_embedded": {
+       "wp:featuredmedia": [
+         {
+           "id": 9434,
+           "date": "2019-06-15T08:00:25",
+           "slug": "blog-img10",
+           "type": "attachment",
+           "link": "https://www.carrefourfp.ca/mfp/2023/10/03/nouvelle-j/blog-img10/",
+           "title": {
+             "rendered": "blog-img10"
+           },
+           "author": 1,
+           "featured_media": 0,
+           "caption": {
+             "rendered": ""
+           },
+           "alt_text": "",
+           "media_type": "image",
+           "mime_type": "image/jpeg",
+           "media_details": {
+             "width": 770,
+             "height": 420,
+             "file": "2017/10/blog-img10.jpg",
+             "filesize": 62554,
+             "sizes": {
+               "woocommerce_thumbnail": {
+                 "file": "blog-img10-450x420.jpg",
+                 "width": 450,
+                 "height": 420,
+                 "filesize": 31210,
+                 "uncropped": false,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-450x420.jpg"
+               },
+               "woocommerce_gallery_thumbnail": {
+                 "file": "blog-img10-100x100.jpg",
+                 "width": 100,
+                 "height": 100,
+                 "filesize": 3826,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-100x100.jpg"
+               },
+               "woocommerce_single": {
+                 "file": "blog-img10-600x327.jpg",
+                 "width": 600,
+                 "height": 327,
+                 "filesize": 30498,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-600x327.jpg"
+               },
+               "medium": {
+                 "file": "blog-img10-300x164.jpg",
+                 "width": 300,
+                 "height": 164,
+                 "filesize": 11803,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-300x164.jpg"
+               },
+               "thumbnail": {
+                 "file": "blog-img10-150x150.jpg",
+                 "width": 150,
+                 "height": 150,
+                 "filesize": 6369,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-150x150.jpg"
+               },
+               "medium_large": {
+                 "file": "blog-img10-768x419.jpg",
+                 "width": 768,
+                 "height": 419,
+                 "filesize": 43468,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-768x419.jpg"
+               },
+               "startflow-rectangle": {
+                 "file": "blog-img10-770x385.jpg",
+                 "width": 770,
+                 "height": 385,
+                 "filesize": 42540,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-770x385.jpg"
+               },
+               "startflow-rectangle3": {
+                 "file": "blog-img10-640x420.jpg",
+                 "width": 640,
+                 "height": 420,
+                 "filesize": 39561,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-640x420.jpg"
+               },
+               "startflow-rectangle4": {
+                 "file": "blog-img10-640x400.jpg",
+                 "width": 640,
+                 "height": 400,
+                 "filesize": 35675,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-640x400.jpg"
+               },
+               "startflow-rectangle5": {
+                 "file": "blog-img10-600x400.jpg",
+                 "width": 600,
+                 "height": 400,
+                 "filesize": 34002,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-600x400.jpg"
+               },
+               "startflow-rectangle6": {
+                 "file": "blog-img10-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 26440,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-370x420.jpg"
+               },
+               "startflow-rectangle7": {
+                 "file": "blog-img10-370x370.jpg",
+                 "width": 370,
+                 "height": 370,
+                 "filesize": 21920,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-370x370.jpg"
+               },
+               "startflow-rectangle8": {
+                 "file": "blog-img10-385x385.jpg",
+                 "width": 385,
+                 "height": 385,
+                 "filesize": 23173,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-385x385.jpg"
+               },
+               "startflow-rectangle9": {
+                 "file": "blog-img10-370x300.jpg",
+                 "width": 370,
+                 "height": 300,
+                 "filesize": 20175,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-370x300.jpg"
+               },
+               "startflow-rectangle10": {
+                 "file": "blog-img10-370x420.jpg",
+                 "width": 370,
+                 "height": 420,
+                 "filesize": 26440,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-370x420.jpg"
+               },
+               "startflow-post-related": {
+                 "file": "blog-img10-380x130.jpg",
+                 "width": 380,
+                 "height": 130,
+                 "filesize": 10616,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-380x130.jpg"
+               },
+               "startflow-post-element": {
+                 "file": "blog-img10-570x370.jpg",
+                 "width": 570,
+                 "height": 370,
+                 "filesize": 31720,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-570x370.jpg"
+               },
+               "startflow-post-widget": {
+                 "file": "blog-img10-140x140.jpg",
+                 "width": 140,
+                 "height": 140,
+                 "filesize": 5870,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10-140x140.jpg"
+               },
+               "full": {
+                 "file": "blog-img10.jpg",
+                 "width": 770,
+                 "height": 420,
+                 "mime_type": "image/jpeg",
+                 "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10.jpg"
+               }
+             },
+             "image_meta": {
+               "aperture": "0",
+               "credit": "",
+               "camera": "",
+               "caption": "",
+               "created_timestamp": "0",
+               "copyright": "",
+               "focal_length": "0",
+               "iso": "0",
+               "shutter_speed": "0",
+               "title": "",
+               "orientation": "0",
+               "keywords": []
+             }
+           },
+           "source_url": "https://www.carrefourfp.ca/mfp/wp-content/uploads/2017/10/blog-img10.jpg",
+           "_links": {
+             "self": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media/9434"
+               }
+             ],
+             "collection": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/media"
+               }
+             ],
+             "about": [
+               {
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/types/attachment"
+               }
+             ],
+             "author": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/users/1"
+               }
+             ],
+             "replies": [
+               {
+                 "embeddable": true,
+                 "href": "https://www.carrefourfp.ca/mfp/wp-json/wp/v2/comments?post=9434"
+               }
+             ]
+           }
+         }
+       ]
+     }
+   }
+ ]
