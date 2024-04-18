@@ -65,11 +65,11 @@
             </nav>
 
             <!-- Header-->
-            <header class="bg-white py-2">
+            <header class="bg-white pt-3">
                 <div class="container px-0">
                     <div class="row gx-5 align-items-center justify-content-center">
 
-                        <div class="col-xl-2 col-xxl-3 d-none d-xl-block text-center"><img class="img-fluid rounded-3 m-4" id="image_chantier" src="" /></div>
+                        <div class="col-xl-2 col-xxl-2 d-none d-xl-block text-center m-3"><img class="img-fluid" id="image_chantier" src="" /></div>
                         
                         <div class="col-lg-10 col-xl-9 col-xxl-8">
                             <div class="my-5 mx-3 text-start text-xl-start">
@@ -131,11 +131,11 @@
 
             var numeroChantier = getURLParameter("n");
 
-            /*
-            if (chantier != "1" && chantier != "2" && chantier != "3" && chantier != "4") {
+            
+            if (numeroChantier != "1" && numeroChantier != "2" && numeroChantier != "3" && numeroChantier != "4") {
                 window.location.replace("404.html");
             }
-            */
+            
 
             document.getElementById('chantier').innerHTML = 'Chantier ' + numeroChantier;
             document.getElementById('image_chantier').src = 'assets/images/icones_chantier/chantier-' + numeroChantier + '.svg';
@@ -144,13 +144,13 @@
 
             switch(numeroChantier) {
                 case "1":
-                    // code block
+                    nomChantier = "Une formation professionnelle accessible à la fine pointe des technologies, et qui intègre les compétences clés du futur.";
                     break;
                 case "2":
-                    // code block
+                    nomChantier = "Une formation professionnelle accessible qui offre des parcours et des programmes d’études modernes et flexibles.";
                     break;
                 case "3":
-                    // code block
+                    nomChantier = "Une formation professionnelle accessible qui fait une place à toutes et à tous, en offrant les meilleures conditions.";
                     break;
                 case "4":
                     nomChantier = "Une formation professionnelle accessible et qui repose sur la synergie de tous les partenaires impliqués";
@@ -187,18 +187,18 @@
             var container = document.getElementById('sous-chantiers');
 
             // Initialize variable to toggle background color
-            var bgColorClass = 'bg-light';
+            var bgColorClass = 'bg-white';
 
             // Loop through each object in the JSON array
             sousChantiersData.forEach(function(item) {
                 // Toggle background color class
-                bgColorClass = bgColorClass === 'bg-light' ? 'bg-white' : 'bg-light';
+                bgColorClass = bgColorClass === 'bg-white' ? 'bg-light' : 'bg-white';
 
                 // Create HTML content
                 var htmlContent = `
                     <!-- About section one-->
-                    <section class="py-5 ${bgColorClass}">
-                        <div class="container px-5 my-5">
+                    <section class="pt-5 pb-3 ${bgColorClass}">
+                        <div class="container px-5">
                             <div class="row gx-5 align-items-top">
                                 <div class="col-lg-4 pb-3">
                                     <h3 class="fw-bolder">${item.title.rendered}</h3>
@@ -214,8 +214,6 @@
                 // Insert HTML content into the container
                 container.insertAdjacentHTML('beforeend', htmlContent);
             });
-
-
 
         </script>
     </body>
