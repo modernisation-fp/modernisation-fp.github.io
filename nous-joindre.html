@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Modernisation de la formation professionnelle</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Bootstrap icons-->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i%7CRoboto:400,400i,500,500i,700,700i,900,900i%7CLato:400,400i,500,500i,700,700i,900,900i%7CMerriweather:300,300i,400,400i,700,700i,900" media="all">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />        
+    </head>
+    <body class="d-flex flex-column h-100">
+        <main class="flex-shrink-0" class="">
+            <!-- Navigation custom style -->
+            <style>
+                /* Adjust logo size for mobile */
+                @media (max-width: 767.98px) {
+                  .navbar-brand {
+                    width: 75%; /* Adjust the width as needed */
+                    height: auto;
+                  }
+                }
+            
+                /* Adjust logo size for larger screens */
+                @media (min-width: 768px) {
+                  .navbar-brand {
+                    width: 40%; /* Reset width for larger screens */
+                    height: auto; /* Adjust the height as needed */
+                  }
+                }
+            </style>
+            <nav class="navbar navbar-expand-lg navbar-dark text-light" style="background-color: #005e9e;">
+                <div class="container px-5">
+                    <a class="navbar-brand d-flex align-items-center" href="/">
+                        <img src="assets/images/navbar_logo.svg" class="d-inline-block align-top img-fluid" alt="">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <li class="nav-item"><a class="nav-link text-light" href="/">Accueil</a></li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-light" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Chantiers</a>
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
+                                    <li><a class="dropdown-item" href="chantier?n=1">Chantier 1</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=2">Chantier 2</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=3">Chantier 3</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=4">Chantier 4</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
+                            <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li>
+                            <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <!-- Page content-->
+            <section class="py-5">
+                <div class="container px-5">
+
+                    <!-- Contact form-->
+                    <div class="row bg-white justify-content-center">
+                        <div class="col-8">
+                            <h1 class="fw-bolder h3">Nous joindre</h1>
+                            <p class="fw-normal text-muted my-0">Pour rejoindre l'équipe de la Modernisation de la formation professionnelle par courriel :</p>
+                            <div class="align-middle">
+                                <p class="py-2"><span class="feature bg-transparent bg-gradient text-dark"><i class="bi bi-envelope"></i></span><a class="main-link" href="mailto:modernisation-fp@education.gouv.qc.ca">modernisation-fp@education.gouv.qc.ca</a></p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <!-- Footer-->
+        <footer class="py-4 mt-auto" style="background-color: #005e9e;">
+            <div class="container px-5">
+                <div class="row align-items-center justify-content-center flex-column flex-sm-row">
+                    <div class="col-auto"><div class="small m-0 text-white text-center">&copy; Ministère de l'Éducation du Québec - <span id="currentYear"></span></div></div>
+                </div>
+            </div>
+        </footer>
+        <script>
+            var currentYear = new Date().getFullYear();
+            document.getElementById('currentYear').textContent = currentYear;
+        </script>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>
