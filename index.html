@@ -44,55 +44,52 @@
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                            <li class="nav-item"><a class="nav-link text-light" href="index.html">Accueil</a></li>
+                            <li class="nav-item"><a class="nav-link text-light" href="">Accueil</a></li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle text-light" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Chantiers</a>
                                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
-                                    <li><a class="dropdown-item" href="#">Chantier 1</a></li>
-                                    <li><a class="dropdown-item" href="#">Chantier 2</a></li>
-                                    <li><a class="dropdown-item" href="#">Chantier 3</a></li>
-                                    <li><a class="dropdown-item" href="chantier.html?n=4">Chantier 4</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=1">Chantier 1</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=2">Chantier 2</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=3">Chantier 3</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=4">Chantier 4</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites.html">Actualités</a></li>
-                            <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier.s">Calendrier</a></li>
-                            <li class="nav-item"><a class="nav-link text-light" href="faq.html">FAQ</a></li>
+                            <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
+                            <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li>
+                            <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
 
                         </ul>
                     </div>
                 </div>
             </nav>
             <!-- Header-->
-            <header class="bg-white py-3">
+            <header class="py-3" style="background-color: #005E9E;">
                 <div class="container px-5">
-                    <div class="row gx-5 align-items-center justify-content-center">
+                    <div class="row pb-3 gx-5 align-items-center justify-content-center">
 
-                        <div class="col-xl-6 col-xxl-7 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="assets/images/MFP-_Logo.svg" style="width: 1000px;height: auto;" /></div>
+                        <div class="order-1 col-lg-7 col-xl-7 col-xxl-7 d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="assets/images/MFP-_Logo.svg" style="width: 1000px;height: auto;" /></div>
                         
-                        <div class="col-lg-7 col-xl-6 col-xxl-5">
+                        <div class="order-2 col-lg-5 col-xl-5 col-xxl-5">
                             <div class="my-5 text-center text-xl-start">
-                                <h3 class="fw-bolder mb-2" style="color: #283378;">Vecteur d'innovation et de fierté.</h3>
-                                <p class="lead fw-normal small text-dark-50 mb-4">En février 2023, le gouvernement du Québec a annoncé un vaste projet de modernisation de la formation professionnelle. Ce projet en cours de déploiement au sein du réseau scolaire québécois se divise en quatres sous-chantiers touchant chacun un aspect crucial de la formation professionnelle.</p>
+                                <h3 class="fw-bolder mb-2 text-light">Vecteur d'innovation et de fierté.</h3>
+                                <br>
+                                <p class="fw-bolder mb-4 text-light pb-2">En février 2023, le gouvernement du Québec a annoncé un vaste projet de modernisation de la formation professionnelle. Ce projet en cours de déploiement au sein du réseau scolaire québécois se divise en quatres sous-chantiers touchant chacun un aspect crucial de la formation professionnelle.</p>
                                 
                                 <p class="lead fw-normal text-dark-50 mb-4">
                                     <a class="main-link" href="#features">
-                                        Consulter la liste des chantiers
+                                        <button type="button" class="btn btn-info btn-block px-5 border border-dark fw-bolder border-2 text-dark">Consulter la liste des chantiers</button>
                                     </a>
                                 </p>
 
-                                <!--
-                                <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                                    <a class="btn btn-outline-dark btn-lg px-4 me-sm-3" href="#features">Consulter la liste des chantiers</a>
-                                </div>
-                                -->
                             </div>
                         </div>
                         
                     </div>
                 </div>
             </header>
+            
             <!-- Features section-->
-            <section class="py-5" id="features">
+            <section class="pb-3 pt-1" id="features">
                 <div class="container px-5 my-5">
                     <div class="row gx-5">
                         <div class="col-lg-4 mb-5 mb-lg-0"><h3 class="fw-bolder mb-0">Une formation professionnelle accessible et...</h3></div>
@@ -100,22 +97,22 @@
                             <div class="row gx-5 row-cols-1 row-cols-md-2">
                                 <div class="col mb-5 h-100">
                                     <div class="feature bg-light border border-dark p-1 text-white rounded-3 mb-3"><img src="assets/images/icones_chantier/MFP-_Technologie-competences.svg" alt=""></div>
-                                    <h2 class="h5"><a href="chantier?n=1" class="main-link">Chantier 1</a></h2>
+                                    <h3 class="h4"><a href="chantier?n=1" class="chantier-link">Chantier 1</a></h2>
                                     <p class="mb-0 fw-bolder">... à la fine pointe des technologies, et qui intègre les compétences clés du futur.</p>
                                 </div>
                                 <div class="col mb-5 h-100">
                                     <div class="feature bg-light border border-dark p-1 text-white rounded-3 mb-3"><img src="assets/images/icones_chantier/MFP-_Parcours-Programmes.svg" alt=""></div>
-                                    <h2 class="h5"><a href="chantier?n=2" class="main-link">Chantier 2</a></h2>
+                                    <h2 class="h4"><a href="chantier?n=2" class="chantier-link">Chantier 2</a></h2>
                                     <p class="mb-0 fw-bolder">... qui offre des parcours et des programmes d’études modernes et flexibles.</p>
                                 </div>
                                 <div class="col mb-5 mb-md-0 h-100">
                                     <div class="feature bg-light border border-dark p-1 text-white rounded-3 mb-3"><img src="assets/images/icones_chantier/MFP-_Inclusion-Reussite.svg" alt=""></div>
-                                    <h2 class="h5"><a href="chantier?n=3" class="main-link">Chantier 3</a></h2>
+                                    <h2 class="h4"><a href="chantier?n=3" class="chantier-link">Chantier 3</a></h2>
                                     <p class="mb-0 fw-bolder">... qui fait une place à toutes et à tous, en offrant les meilleures conditions.</p>
                                 </div>
                                 <div class="col h-100">
                                     <div class="feature bg-light border border-dark p-1 text-white rounded-3 mb-3"><img src="assets/images/icones_chantier/MFP-_Synergie-Partenaires.svg" alt=""></div>
-                                    <h2 class="h5"><a href="chantier?n=4" class="main-link">Chantier 4</a></h2>
+                                    <h2 class="h4"><a href="chantier?n=4" class="chantier-link">Chantier 4</a></h2>
                                     <p class="mb-0 fw-bolder">... qui repose sur la synergie de tous les partenaires impliqués.</p>
                                 </div>
                             </div>
@@ -123,6 +120,7 @@
                     </div>
                 </div>
             </section>
+            
             <!-- Testimonial section
             <div class="py-5 bg-light">
                 <div class="container px-5 my-5">
@@ -145,7 +143,7 @@
             </div>
             -->
             <!-- Blog preview section-->
-            <section class="py-5">
+            <section class="pb-5 pt-2">
                 <div class="container px-5 my-5">
                     <div class="row gx-5 justify-content-center">
                         <div class="col-lg-8 col-xl-6">

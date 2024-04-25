@@ -26,6 +26,17 @@
   text-decoration: none !important;
 }
 
+.chantier-link {
+  color: #283378 !important;
+  text-decoration: none !important;
+}
+
+.chantier-link:hover {
+  color: #005e9e !important;
+  text-decoration: none !important;
+}
+
+
 .page-link a {
   color: #005e9e !important;
   text-decoration: none !important;

@@ -69,8 +69,8 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8 col-xxl-6">
                             <div class="text-center my-4">
-                                <h1 class="fw-bolder">Actualités</h1>
-                                <p class="lead fw-normal text-muted mb-4">Dernières actualités et annonces concernant la modernisation de la formation professionnelle</p>
+                                <h1 class="fw-bolder h3">Calendrier</h1>
+                                <p class="lead fw-normal text-muted mb-4">Événements et annonces à venir concernant modernisation de la formation professionnelle</p>
                             </div>
                         </div>
                     </div>
@@ -275,7 +275,7 @@
                         }
                     }
                 };
-                xhr.open('GET', WORDPRESS_CONTENT_API_URL_PREFIX + 'posts' + WORDPRESS_CONTENT_API_URL_SUFFIX, true);
+                xhr.open('GET', WORDPRESS_CONTENT_API_URL_PREFIX + 'evenement' + WORDPRESS_CONTENT_API_URL_SUFFIX, true);
                 xhr.send();
             }
             
@@ -315,16 +315,13 @@
                 var dateEnFrancais = convertToFrenchDate(post.date);
                 return `
                 <div class="col-lg-4 mb-5">
-                    <div class="card h-100 shadow-sm border">
-                        <div style="height: 200px; overflow: hidden;">
-                            <img class="card-img-top img-fluid object-fit-cover" src="${imageUrl}" alt="..." />
-                        </div>
+                    <div class="card h-100 shadow-0 rounded-0 border-grey border-2">
                         <div class="card-body p-4">
                             <a class="text-decoration-none link-dark stretched-link" href="actualite?id=${post.id}">
-                                <div class="h5 card-title mb-3">${post.title.rendered}</div>
+                                <div class="h5 card-title mb-2">${post.title.rendered}</div>
                             </a>
-                            <p class="card-text mb-1"><small>${dateEnFrancais}</small></p>
-                            <p class="card-text mb-0">${excerpt}</p>
+                            <p class="card-text mb-2 fw-bolder">${dateEnFrancais}</p>
+                            <p class="card-text small mb-0">${excerpt}</p>
                         </div>
                     </div>
                 </div>
