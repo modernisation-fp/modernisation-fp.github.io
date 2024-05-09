@@ -58,8 +58,24 @@
                             <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li>
                             <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
                             <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
-
+                            <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
                         </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <script>
+                function ouvrirFermerBarreDeRecherche() {
+                    document.getElementById("barreDeRecherche").hidden = !(document.getElementById("barreDeRecherche").hidden);
+                }
+            </script>
+            <nav hidden class="navbar navbar-expand-lg navbar-dark text-light " style="background-color: #005e9e;" id="barreDeRecherche">
+                <div class="container px-5 navbar-menu pb-3">
+                    <div class="navbar-collapse searchbar" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <input class="form-control py-1 mx-2" type="search" placeholder="Faire une recherche..." aria-label="Faire une recherche...">
+                            <button class="btn btn-outline-light my-2 my-sm-0" type="submit"><i class="bi bi-search"></i></button>
+                        </ul>                    
                     </div>
                 </div>
             </nav>
@@ -97,10 +113,5 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-        <!-- * *                               SB Forms JS                               * *-->
-        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
 </html>

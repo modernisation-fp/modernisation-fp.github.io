@@ -16,6 +16,76 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <style>
+            /* CSS de Wordpress, sert a l'affichage des articles */
+            /* == WordPress WYSIWYG Editor Styles == */
+            .entry-content img {
+                margin: 0 0 1.5em 0;
+                }
+            .alignleft, img.alignleft {
+                margin-right: 1.5em;
+                display: inline;
+                float: left;
+                }
+            .alignright, img.alignright {
+                margin-left: 1.5em;
+                display: inline;
+                float: right;
+                }
+            .aligncenter, img.aligncenter {
+                margin-right: auto;
+                margin-left: auto;
+                display: block;
+                clear: both;
+                }
+            .alignnone, img.alignnone {
+                /* not sure about this one */
+                }
+            .wp-caption {
+                margin-bottom: 1.5em;
+                text-align: center;
+                padding-top: 5px;
+                }
+            .wp-caption img {
+                border: 0 none;
+                padding: 0;
+                margin: 0;
+                }
+            .wp-caption p.wp-caption-text {
+                line-height: 1.5;
+                font-size: 10px;
+                margin: 0;
+                }
+            .wp-smiley {
+                margin: 0 !important;
+                max-height: 1em;
+                }
+            blockquote.left {
+                margin-right: 20px;
+                text-align: right;
+                margin-left: 0;
+                width: 33%;
+                float: left;
+                }
+            blockquote.right {
+                margin-left: 20px;
+                text-align: left;
+                margin-right: 0;
+                width: 33%;
+                float: right;
+                }
+            .gallery dl {}
+            .gallery dt {}
+            .gallery dd {}
+            .gallery dl a {}
+            .gallery dl img {}
+            .gallery-caption {}
+
+            .size-full {}
+            .size-large {}
+            .size-medium {}
+            .size-thumbnail {}
+        </style>
     </head>
     <body class="d-flex flex-column">
         <main class="flex-shrink-0">
@@ -59,8 +129,24 @@
                             <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li>
                             <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
                             <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
-
+                            <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
                         </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <script>
+                function ouvrirFermerBarreDeRecherche() {
+                    document.getElementById("barreDeRecherche").hidden = !(document.getElementById("barreDeRecherche").hidden);
+                }
+            </script>
+            <nav hidden class="navbar navbar-expand-lg navbar-dark text-light " style="background-color: #005e9e;" id="barreDeRecherche">
+                <div class="container px-5 navbar-menu pb-3">
+                    <div class="navbar-collapse searchbar" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <input class="form-control py-1 mx-2" type="search" placeholder="Faire une recherche..." aria-label="Faire une recherche...">
+                            <button class="btn btn-outline-light my-2 my-sm-0" type="submit"><i class="bi bi-search"></i></button>
+                        </ul>                    
                     </div>
                 </div>
             </nav>
