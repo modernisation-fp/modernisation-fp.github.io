@@ -55,7 +55,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
-                            <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li>
+                            <!-- <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li> -->
                             <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
                             <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
                             <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
@@ -252,8 +252,12 @@
                     accordionItem.innerHTML = `
                     <div class="accordion-item">
                         <h3 class="accordion-header" id="heading-${question.id}">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-${question.id}" aria-expanded="false" aria-controls="collapse-${question.id}">
-                            ${question.title.rendered}
+                        <button class="fw-bolder accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-${question.id}" aria-expanded="false" aria-controls="collapse-${question.id}">
+                            <div class="row">
+                                <div class="col-11">
+                                    ${question.title.rendered}
+                                </div>
+                            </div>
                         </button>
                         </h3>
                         <div class="accordion-collapse collapse" id="collapse-${question.id}" aria-labelledby="heading-${question.id}" data-bs-parent="#accordionExample">
