@@ -88,7 +88,7 @@
                         <div class="col-lg-8 col-xxl-6">
                             <div class="text-center my-4">
                                 <h1 class="fw-bolder h3">Recherche</h1>
-                                <p class="lead fw-normal text-muted mb-4">Résultats de recherche pour «<em><span id="texteRecherche">modernisation</span></em>»</p>
+                                <p class="lead fw-normal text-muted mb-4">Résultats de recherche pour «<em><span id="texteRecherche"></span></em>»</p>
                             </div>
                         </div>
                     </div>
@@ -100,41 +100,7 @@
                 <div class="container px-5">
                     <div class="row gx-5 justify-content-center" id="posts-container">
                         
-                        <div class="col-lg-8 col-md-10 mb-3">
-                            <div class="card h-100 shadow-0 border-0">
-                                <div class="card-body p-4">
-                                    <a class="main-link text-decoration-none stretched-link" href="#!">
-                                        <div class="h5 card-title mb-3">Blog post title</div>
-                                    </a>
-                                    <p class="card-text mb-0">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <div class="badge bg-dark bg-gradient rounded-pill my-3">News</div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-8 col-md-10 mb-3">
-                            <div class="card h-100 shadow-0 border-0">
-                                <div class="card-body p-4">
-                                    <a class="main-link text-decoration-none stretched-link" href="#!">
-                                        <div class="h5 card-title mb-3">Blog post title</div>
-                                    </a>
-                                    <p class="card-text mb-0">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <div class="badge bg-dark bg-gradient rounded-pill my-3">News</div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-8 col-md-10 mb-3">
-                            <div class="card h-100 shadow-0 border-0">
-                                <div class="card-body p-4">
-                                    <a class="main-link text-decoration-none stretched-link" href="#!">
-                                        <div class="h5 card-title mb-3">Blog post title</div>
-                                    </a>
-                                    <p class="card-text mb-0">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <div class="badge bg-dark bg-gradient rounded-pill my-3">News</div>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <!--
 
                         <div class="col-lg-4 mb-5">
@@ -219,7 +185,8 @@
         <script src="js/scripts.js"></script>
 
         <script>
-            var WORDPRESS_CONTENT_API_URL = "https://carrefourfp.ca/mfp/wp-json/wp/v2/search?search="
+            const WORDPRESS_CONTENT_API_URL = "https://carrefourfp.ca/mfp/wp-json/wp/v2/search?search=";
+            const URL_DU_POST = "https://carrefourfp.ca/mfp/wp-json/wp/v2/";
 
             function getURLParameter(name) {
                 const queryString = window.location.search;
@@ -229,24 +196,37 @@
 
             let texteARechercher = getURLParameter("s");
 
-            var urlRecherche = WORDPRESS_CONTENT_API_URL + texteARechercher;
+            const urlRecherche = WORDPRESS_CONTENT_API_URL + texteARechercher;
 
             console.log(urlRecherche);
 
-            function fetchPosts(callback) {
-                var xhr = new XMLHttpRequest();
-                xhr.onreadystatechange = function() {
-                    if (xhr.readyState === 4) {
-                        if (xhr.status === 200) {
-                            var data = JSON.parse(xhr.responseText);
-                            callback(null, data);
-                        } else {
-                            callback('Une erreur s\'est produite lors de la récupération des articles');
-                        }
+            async function fetchPosts() {
+                try {
+                    const response = await fetch(urlRecherche);
+                    if (response.ok) {
+                        const data = await response.json();
+                        return data;
+                    } else {
+                        throw new Error('Une erreur s\'est produite lors de la récupération des articles');
                     }
-                };
-                xhr.open('GET', WORDPRESS_CONTENT_API_URL + s, true);
-                xhr.send();
+                } catch (error) {
+                    console.error(error);
+                }
+            }
+
+            async function fetchOnlyOnePost(url) {
+                try {
+                    const response = await fetch(url);
+                    if (response.ok) {
+                        const data = await response.json();
+                        return data;
+                    } else {
+                        throw new Error(`Error fetching post: ${response.statusText}`);
+                    }
+                } catch (error) {
+                    console.error(error);
+                    return null;
+                }
             }
 
             // UTILS -------------------------------------------------------------------------------------------
@@ -279,42 +259,80 @@
             }
             // FIN UTILS ---------------------------------------------------------------------------------------
 
-            function createPostHTML(post) {
-                var excerpt = truncateText(post.excerpt.rendered.replace(/<[^>]*>?/gm, ''), 100);
-                var imageUrl = post._embedded?.["wp:featuredmedia"]?.[0]?.["source_url"] ?? "https://dummyimage.com/600x350/ced4da/6c757d";
-                var dateEnFrancais = convertToFrenchDate(post.date);
+            async function createPostHTML(post) {
+                // Inserer le terme de recherche
+                document.getElementById('texteRecherche').innerHTML = texteARechercher;
+
+                const title = post.title;
+                let clickableUrl = "";
+                let typeDePost = "";
+                let extrait = "";
+
+                let gentileUrl = "";
+                let chantier = "";
+
+                if (post.subtype == "sous-chantier") {
+                    gentileUrl = "sous-chantier";
+                    typeDePost = "Sous-chantier";
+                } else if (post.subtype == "post") {
+                    gentileUrl = "posts";
+                    typeDePost = "Actualité";
+                } else if (post.subtype == "question") {
+                    gentileUrl = "question";
+                    typeDePost = "FAQ";
+                }
+
+                const url = `${URL_DU_POST}${gentileUrl}/${post.id}`;
+                const data = await fetchOnlyOnePost(url);
+
+                if (data) {
+                    if (post.subtype == "sous-chantier") {
+                        const category = data.categories[0];
+                        if (category == 81) chantier = "1";
+                        if (category == 82) chantier = "2";
+                        if (category == 83) chantier = "3";
+                        if (category == 84) chantier = "4";
+                        clickableUrl = `chantier?n=${chantier}#${post.id}`;
+                        extrait = data.excerpt.rendered;
+                    } else if (post.subtype == "post") {
+                        clickableUrl = `actualite?id=${post.id}`;
+                        extrait = data.excerpt.rendered;
+                    } else if (post.subtype == "question") {
+                        clickableUrl = "faq";
+                        extrait = "Foire aux questions.";
+                    }
+                }
+
                 return `
-                <div class="col-lg-4 mb-5">
-                    <div class="card h-100 shadow-sm border">
-                        <div style="height: 200px; overflow: hidden;">
-                            <img class="card-img-top img-fluid object-fit-cover" src="${imageUrl}" alt="..." />
-                        </div>
+                <div class="col-lg-8 col-md-10 mb-3 py-2">
+                    <div class="card h-100 shadow-0 border-0">
                         <div class="card-body p-4">
-                            <a class="text-decoration-none link-dark stretched-link" href="actualite?id=${post.id}">
-                                <div class="h5 card-title mb-3">${post.title.rendered}</div>
+                            <a class="main-link text-decoration-none stretched-link" href="${clickableUrl}">
+                                <div class="h5 card-title mb-3 fw-bolder">${title}</div>
                             </a>
-                            <p class="card-text mb-1"><small>${dateEnFrancais}</small></p>
-                            <p class="card-text mb-0">${excerpt}</p>
+                            <p class="card-text mb-0">${extrait}</p>
+                            <div class="badge bg-dark rounded-pill my-3">${typeDePost}</div>
                         </div>
                     </div>
                 </div>
                 `;
             }
 
-            function displayPosts() {
-                fetchPosts(function(err, posts) {
-                    if (err) {
-                        console.error(err);
-                        return;
-                    }
+            async function displayPosts() {
+                const posts = await fetchPosts();
+                if (!posts) return;
 
-                    var postsContainer = document.getElementById('posts-container');
-                    if (postsContainer) {
-                        posts.forEach(function(post) {
-                            var postHTML = createPostHTML(post);
-                            postsContainer.innerHTML += postHTML;
-                        });
-                    }
+                const postsContainer = document.getElementById('posts-container');
+                if (!postsContainer) return;
+
+                const postHTMLPromises = posts.map(async (post) => {
+                    return createPostHTML(post);
+                });
+
+                const postHTMLs = await Promise.all(postHTMLPromises);
+
+                postHTMLs.forEach((postHTML) => {
+                    postsContainer.innerHTML += postHTML;
                 });
             }
 
