@@ -37,7 +37,7 @@
                   }
                 }
             </style>
-            <nav class="navbar navbar-expand-lg navbar-dark text-light" style="background-color: #005e9e;">
+            <!-- <nav class="navbar navbar-expand-lg navbar-dark text-light" style="background-color: #005e9e;">
                 <div class="container px-5">
                     <a class="navbar-brand d-flex align-items-center" href="/">
                         <img src="assets/images/navbar_logo.svg" class="d-inline-block align-top img-fluid" alt="">
@@ -56,11 +56,45 @@
                                 </ul>
                             </li>
                             <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
-                            <!-- <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li> -->
                             <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
                             <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
                             <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
                         </ul>
+                    </div>
+                </div>
+            </nav> -->
+
+            <nav class="navbar navbar-expand-lg navbar-dark text-light" style="background-color: #005e9e;">
+                <div class="container px-5">
+                    <a class="navbar-brand d-flex align-items-end" href="/">
+                        <img src="assets/images/MFP-_Logo.svg" class="py-1 d-inline-block align-top img-fluid" style="width: 40%;">
+                        <img src="assets/images/MEQ_blanc.svg" class="d-inline-block align-top img-fluid" style="width: 40%;">
+
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <div class="col">
+                            <div class="row">
+                                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex justify-content-end">
+                                    <li class="nav-item"><a class="nav-link text-light" href="/">Accueil</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
+                                    <!-- <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li> -->
+                                    <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
+                                </ul>
+
+                            </div>
+                            <div class="row">
+                                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex justify-content-end">
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=1">CHANTIER 1</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=2">CHANTIER 2</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=3">CHANTIER 3</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=4">CHANTIER 4</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </nav>
@@ -87,16 +121,16 @@
             </nav>
             
             <!-- Header-->
-            <header class="py-3" style="background-color:#005e9e;">
+            <header class="py-5" >
                 <div class="container px-0">
                     <div class="row gx-5 align-items-center justify-content-center">
 
-                        <div class="col-xl-2 col-xxl-2 d-none d-xl-block text-center m-3"><img class="img-fluid" id="image_chantier" src="" /></div>
+                        <div class="col-xl-2 col-xxl-2 d-none d-xl-block text-center m-3"><img class="img-fluid p-3 rounded" id="image_chantier" src="" style="background-color:#005e9e;"/></div>
                         
                         <div class="col-lg-10 col-xl-9 col-xxl-8">
                             <div class="my-5 mx-3 text-start text-xl-start px-4">
-                                <h3 class="fw-bolder mb-2 text-light" id="chantier">Chantier 1</h3>
-                                <p class="lead fw-normal text-light mb-4" id="nom_chantier">Une formation professionnelle accessible et à la fine pointe des technologies, et qui intègre les compétences clés.</p>
+                                <h3 class="fw-bolder mb-2 text-dark" id="chantier">Chantier 1</h3>
+                                <p class="lead fw-normal text-dark mb-4" id="nom_chantier">Une formation professionnelle accessible et à la fine pointe des technologies, et qui intègre les compétences clés.</p>
                             </div>
                         </div>
                         
@@ -146,8 +180,6 @@
 
             var numeroChantier = getURLParameter("n");
 
-            // REMOVE THIS ON DEPLOY
-            // window.location.replace("404.html");
             
             if (numeroChantier != "1" && numeroChantier != "2" && numeroChantier != "3" && numeroChantier != "4") {
                 window.location.replace("404.html");
