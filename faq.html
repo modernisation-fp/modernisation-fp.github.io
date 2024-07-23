@@ -38,28 +38,35 @@
             </style>
             <nav class="navbar navbar-expand-lg navbar-dark text-light" style="background-color: #005e9e;">
                 <div class="container px-5">
-                    <a class="navbar-brand d-flex align-items-center" href="/">
-                        <img src="assets/images/navbar_logo.svg" class="d-inline-block align-top img-fluid" alt="">
+                    <a class="navbar-brand d-flex align-items-end" href="/">
+                        <img src="assets/images/MFP-_Logo.svg" class="py-1 d-inline-block align-top img-fluid" style="width: 40%;">
+                        <img src="assets/images/MEQ_blanc.svg" class="d-inline-block align-top img-fluid" style="width: 40%;">
+
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                            <li class="nav-item"><a class="nav-link text-light" href="/">Accueil</a></li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle text-light" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Chantiers</a>
-                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
-                                    <li><a class="dropdown-item" href="chantier?n=1">Chantier 1</a></li>
-                                    <li><a class="dropdown-item" href="chantier?n=2">Chantier 2</a></li>
-                                    <li><a class="dropdown-item" href="chantier?n=3">Chantier 3</a></li>
-                                    <li><a class="dropdown-item" href="chantier?n=4">Chantier 4</a></li>
+                        <div class="col">
+                            <div class="row">
+                                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex justify-content-end">
+                                    <li class="nav-item"><a class="nav-link text-light" href="/">Accueil</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
+                                    <!-- <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li> -->
+                                    <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
                                 </ul>
-                            </li>
-                            <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
-                            <!-- <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li> -->
-                            <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
-                            <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
-                            <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
-                        </ul>
+
+                            </div>
+                            <div class="row">
+                                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex justify-content-end">
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=1">CHANTIER 1</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=2">CHANTIER 2</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=3">CHANTIER 3</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=4">CHANTIER 4</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </nav>
