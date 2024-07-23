@@ -156,9 +156,15 @@
                 <div class="container px-5">
                     <div class="row py-3 gx-5 align-items-center justify-content-center">
 
-                        <div class="order-1 col-lg-7 col-xl-7 col-xxl-7 d-xl-block text-center">
-                            <!-- Replace the image with YouTube video iframe -->
+                        <!-- <div class="order-1 col-lg-7 col-xl-7 col-xxl-7 d-xl-block text-center">
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/Qc3NrU6orK8?si=qhi6VK92a0FRCfH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div> -->
+
+                        <div class="order-1 col-lg-7 col-xl-7 col-xxl-7 d-xl-block text-center">
+                            <video width="560" height="315" controls loading="lazy">
+                                <source src="https://www.carrefourfp.ca/mfp/wp-content/uploads/2024/07/gagne_ta_vie_avec_la_fp.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
                         </div>
                         
                         <div class="order-2 col-lg-5 col-xl-5 col-xxl-5">
@@ -558,10 +564,36 @@
             </section>
         </main>
         <!-- Footer-->
+        <style>
+            .privacy-link {
+                color: #ffffff; /* Set link color to white */
+                text-decoration: none; /* Remove underline by default */
+                transition: color 0.3s; /* Smooth transition for color change */
+            }
+
+            .privacy-link:hover {
+                color: #ffffff;
+                text-decoration: underline; /* Underline on hover */
+            }
+        </style>
         <footer class="py-4 mt-auto" style="background-color: #005e9e;">
             <div class="container px-5">
                 <div class="row align-items-center justify-content-center flex-column flex-sm-row">
-                    <div class="col-auto"><div class="small m-0 text-white text-center">&copy; Ministère de l'Éducation du Québec - <span id="currentYear"></span></div></div>
+                    <div class="col-auto">
+                        <div class="small m-0 text-white text-center">
+                            &copy; Ministère de l'Éducation du Québec - <span id="currentYear"></span>
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <div class="small m-0 text-white text-center">
+                            |
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <div class="small m-0 text-white text-center">
+                            <a href="#" class="privacy-link">Politique de confidentialité</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </footer>
