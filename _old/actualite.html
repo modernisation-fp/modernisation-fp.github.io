@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Modernisation de la formation professionnelle</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Bootstrap icons-->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i%7CRoboto:400,400i,500,500i,700,700i,900,900i%7CLato:400,400i,500,500i,700,700i,900,900i%7CMerriweather:300,300i,400,400i,700,700i,900" media="all">
+        
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <style>
+            /* CSS de Wordpress, sert a l'affichage des articles */
+            /* == WordPress WYSIWYG Editor Styles == */
+            .entry-content img {
+                margin: 0 0 1.5em 0;
+                }
+            .alignleft, img.alignleft {
+                margin-right: 1.5em;
+                display: inline;
+                float: left;
+                }
+            .alignright, img.alignright {
+                margin-left: 1.5em;
+                display: inline;
+                float: right;
+                }
+            .aligncenter, img.aligncenter {
+                margin-right: auto;
+                margin-left: auto;
+                display: block;
+                clear: both;
+                }
+            .alignnone, img.alignnone {
+                /* not sure about this one */
+                }
+            .wp-caption {
+                margin-bottom: 1.5em;
+                text-align: center;
+                padding-top: 5px;
+                }
+            .wp-caption img {
+                border: 0 none;
+                padding: 0;
+                margin: 0;
+                }
+            .wp-caption p.wp-caption-text {
+                line-height: 1.5;
+                font-size: 10px;
+                margin: 0;
+                }
+            .wp-smiley {
+                margin: 0 !important;
+                max-height: 1em;
+                }
+            blockquote.left {
+                margin-right: 20px;
+                text-align: right;
+                margin-left: 0;
+                width: 33%;
+                float: left;
+                }
+            blockquote.right {
+                margin-left: 20px;
+                text-align: left;
+                margin-right: 0;
+                width: 33%;
+                float: right;
+                }
+            .gallery dl {}
+            .gallery dt {}
+            .gallery dd {}
+            .gallery dl a {}
+            .gallery dl img {}
+            .gallery-caption {}
+
+            .size-full {}
+            .size-large {}
+            .size-medium {}
+            .size-thumbnail {}
+        </style>
+    </head>
+    <body class="d-flex flex-column">
+        <main class="flex-shrink-0">
+            <!-- Navigation custom style -->
+            <style>
+                /* Adjust logo size for mobile */
+                @media (max-width: 767.98px) {
+                  .navbar-brand {
+                    width: 75%; /* Adjust the width as needed */
+                    height: auto;
+                  }
+                }
+            
+                /* Adjust logo size for larger screens */
+                @media (min-width: 768px) {
+                  .navbar-brand {
+                    width: 40%; /* Reset width for larger screens */
+                    height: auto; /* Adjust the height as needed */
+                  }
+                }
+            </style>
+            <nav class="navbar navbar-expand-lg navbar-dark text-light" style="background-color: #005e9e;">
+                <div class="container px-5">
+                    <a class="navbar-brand d-flex align-items-end" href="/">
+                        <img src="assets/images/MFP-_Logo.svg" class="py-1 d-inline-block align-top img-fluid" style="width: 40%;">
+                        <img src="assets/images/MEQ_blanc.svg" class="d-inline-block align-top img-fluid" style="width: 40%;">
+
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <div class="col">
+                            <div class="row">
+                                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex justify-content-end">
+                                    <li class="nav-item"><a class="nav-link text-light" href="/">Accueil</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
+                                    <!-- <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li> -->
+                                    <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
+                                </ul>
+
+                            </div>
+                            <div class="row">
+                                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex justify-content-end">
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=1">CHANTIER 1</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=2">CHANTIER 2</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=3">CHANTIER 3</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=4">CHANTIER 4</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </nav>
+
+            <script>
+                function ouvrirFermerBarreDeRecherche() {
+                    document.getElementById("barreDeRecherche").hidden = !(document.getElementById("barreDeRecherche").hidden);
+                }
+                function search() {
+                    var contenu = document.getElementById("contenuDeRecherche").value;
+                    window.location = 'recherche.html?s=' + contenu;
+                    console.log(contenu);
+                }
+            </script>
+            <nav hidden class="navbar navbar-expand-lg navbar-dark text-light " style="background-color: #005e9e;" id="barreDeRecherche">
+                <div class="container px-5 navbar-menu pb-3">
+                    <div class="navbar-collapse searchbar" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <input class="form-control py-1 mx-2" type="search" placeholder="Faire une recherche..." aria-label="Faire une recherche..." id="contenuDeRecherche">
+                            <button class="btn btn-outline-light my-2 my-sm-0" type="submit" onclick="search()"><i class="bi bi-search"></i></button>
+                        </ul>                    
+                    </div>
+                </div>
+            </nav>
+            
+            <!-- Page Content-->
+            <section class="py-5">
+                <div class="container px-5 my-5">
+                    <div class="row gx-5 justify-content-center">
+                        
+                        <div class="col-lg-9">
+                            <!-- Post content-->
+                            <article>
+                                <!-- Post header-->
+                                <header class="mb-5">
+                                    <!-- Post title-->
+                                    <h1 class="fw-bolder mb-2" id="titre_du_post"></h1>
+                                    <!-- Post meta content-->
+                                    <div class="text-muted fst-italic mb-2" id="date_du_post"></div>
+                                </header>
+                                <!-- Preview image figure-->
+                                <figure class="mb-4  text-center" id="img_du_post"></figure>
+                                <!-- Post content-->
+                                <section class="mb-5 mt-5" id="content-container">
+                                    <!-- Contenu de l'article -->
+                                </section>
+
+                                
+
+                            </article>
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <!-- Footer-->
+        <footer class="py-4 mt-auto" style="background-color: #005e9e;">
+            <div class="container px-5">
+                <div class="row align-items-center justify-content-center flex-column flex-sm-row">
+                    <div class="col-auto"><div class="small m-0 text-white text-center">&copy; Ministère de l'Éducation du Québec - <span id="currentYear"></span></div></div>
+                </div>
+            </div>
+        </footer>
+
+        <script>
+            var currentYear = new Date().getFullYear();
+            document.getElementById('currentYear').textContent = currentYear;
+        </script>
+
+        <script>
+            // Function to get a URL parameter by name
+            function getURLParameter(name) {
+                const queryString = window.location.search;
+                const urlParams = new URLSearchParams(queryString);
+                return urlParams.get(name);
+            }
+
+            (function() {
+                try {
+                    var actualite_id = getURLParameter("id");
+                    const url = 'https://carrefourfp.ca/mfp/wp-json/wp/v2/posts/' + actualite_id + '?_embed&_fields=author,id,content,excerpt,date,title,link,_links.wp:featuredmedia,_embedded.wp:featuredmedia';
+
+                    // Create a new XMLHttpRequest object
+                    const xhr = new XMLHttpRequest();
+
+                    // Open the request synchronously
+                    xhr.open('GET', url, false); // Synchronous request
+
+                    // Send the request
+                    xhr.send();
+
+                    // Check if request was successful
+                    if (xhr.status !== 200) {
+                        throw new Error(`Error: status: ${xhr.status}`);
+                    }
+
+                    // Parse the JSON response
+                    const postData = JSON.parse(xhr.responseText);
+                    var imageUrl = postData._embedded?.["wp:featuredmedia"]?.[0]?.["source_url"] ?? "";
+
+                    // Insert the title into the specified div
+                    const titreDuPoste = document.getElementById('titre_du_post');
+                    titreDuPoste.innerHTML = postData.title.rendered;
+
+                    // Insert the date into the specified div
+                    const dateDuPoste = document.getElementById('date_du_post');
+                    dateDuPoste.innerHTML = 'Dernière mise à jour le ' + convertToFrenchDate(postData.date);
+                    
+                    // Insert the date into the specified div
+                    const imageDuPoste = document.getElementById('img_du_post');
+                    if (imageUrl != "") {
+                        imgTag = `<img class="img-fluid rounded" id="img_du_post" src="${imageUrl}" alt="..." />`;
+                    }
+                    else {
+                        imgTag = "";
+                    }
+                    
+                    imageDuPoste.innerHTML = imgTag;
+
+                    // Insert the content into the specified div
+                    const contentDiv = document.getElementById('content-container');
+                    contentDiv.innerHTML = postData.content.rendered;
+
+                    
+
+                } catch (error) {
+                    console.error('Error fetching data: ', error);
+                    document.getElementById('content-container').innerHTML = "Cette actualité n'existe pas.";
+                }
+
+            })();
+
+            // UTILS -------------------------------------------------------------------------------------------
+
+            function convertToFrenchDate(dateString) {
+                // Create a new Date object from the provided date string
+                const date = new Date(dateString);
+
+                // Define months in French
+                const frenchMonths = [
+                    "janvier", "février", "mars", "avril", "mai", "juin",
+                    "juillet", "août", "septembre", "octobre", "novembre", "décembre"
+                ];
+
+                // Extract day, month, and year from the date object
+                const day = date.getDate();
+                const month = frenchMonths[date.getMonth()];
+                const year = date.getFullYear();
+
+                // Construct the French date string
+                const frenchDate = `${day} ${month} ${year}`;
+
+                return frenchDate;
+            }
+            // FIN UTILS ---------------------------------------------------------------------------------------
+        </script>
+
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

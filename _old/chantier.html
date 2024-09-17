@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Modernisation de la formation professionnelle</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Bootstrap icons-->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i%7CRoboto:400,400i,500,500i,700,700i,900,900i%7CLato:400,400i,500,500i,700,700i,900,900i%7CMerriweather:300,300i,400,400i,700,700i,900" media="all">
+        
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body class="d-flex flex-column">
+        <main class="flex-shrink-0">
+            <!-- Navigation custom style -->
+            <style>
+                /* Adjust logo size for mobile */
+                @media (max-width: 767.98px) {
+                  .navbar-brand {
+                    width: 75%; /* Adjust the width as needed */
+                    height: auto;
+                  }
+                }
+            
+                /* Adjust logo size for larger screens */
+                @media (min-width: 768px) {
+                  .navbar-brand {
+                    width: 40%; /* Reset width for larger screens */
+                    height: auto; /* Adjust the height as needed */
+                  }
+                }
+            </style>
+            <!-- <nav class="navbar navbar-expand-lg navbar-dark text-light" style="background-color: #005e9e;">
+                <div class="container px-5">
+                    <a class="navbar-brand d-flex align-items-center" href="/">
+                        <img src="assets/images/navbar_logo.svg" class="d-inline-block align-top img-fluid" alt="">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <li class="nav-item"><a class="nav-link text-light" href="/">Accueil</a></li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-light" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Chantiers</a>
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
+                                    <li><a class="dropdown-item" href="chantier?n=1">Chantier 1</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=2">Chantier 2</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=3">Chantier 3</a></li>
+                                    <li><a class="dropdown-item" href="chantier?n=4">Chantier 4</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
+                            <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
+                            <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
+                            <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav> -->
+
+            <nav class="navbar navbar-expand-lg navbar-dark text-light" style="background-color: #005e9e;">
+                <div class="container px-5">
+                    <a class="navbar-brand d-flex align-items-end" href="/">
+                        <img src="assets/images/MFP-_Logo.svg" class="py-1 d-inline-block align-top img-fluid" style="width: 40%;">
+                        <img src="assets/images/MEQ_blanc.svg" class="d-inline-block align-top img-fluid" style="width: 40%;">
+
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <div class="col">
+                            <div class="row">
+                                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex justify-content-end">
+                                    <li class="nav-item"><a class="nav-link text-light" href="/">Accueil</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" id="actualites" href="actualites">Actualités</a></li>
+                                    <!-- <li class="nav-item"><a class="nav-link text-light" id="calendrier" href="calendrier">Calendrier</a></li> -->
+                                    <li class="nav-item"><a class="nav-link text-light" href="faq">FAQ</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" href="nous-joindre">Nous joindre</a></li>
+                                    <li class="nav-item"><a class="nav-link text-light" href="#" onclick="ouvrirFermerBarreDeRecherche()"><i class="bi bi-search"></i></a></li>
+                                </ul>
+
+                            </div>
+                            <div class="row">
+                                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex justify-content-end">
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=1">CHANTIER 1</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=2">CHANTIER 2</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=3">CHANTIER 3</a></li>
+                                    <li class="nav-item small fw-bolder"><a class="nav-link text-light" href="chantier?n=4">CHANTIER 4</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </nav>
+
+            <script>
+                function ouvrirFermerBarreDeRecherche() {
+                    document.getElementById("barreDeRecherche").hidden = !(document.getElementById("barreDeRecherche").hidden);
+                }
+                function search() {
+                    var contenu = document.getElementById("contenuDeRecherche").value;
+                    window.location = 'recherche.html?s=' + contenu;
+                    console.log(contenu);
+                }
+            </script>
+            <nav hidden class="navbar navbar-expand-lg navbar-dark text-light " style="background-color: #005e9e;" id="barreDeRecherche">
+                <div class="container px-5 navbar-menu pb-3">
+                    <div class="navbar-collapse searchbar" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <input class="form-control py-1 mx-2" type="search" placeholder="Faire une recherche..." aria-label="Faire une recherche..." id="contenuDeRecherche">
+                            <button class="btn btn-outline-light my-2 my-sm-0" type="submit" onclick="search()"><i class="bi bi-search"></i></button>
+                        </ul>                    
+                    </div>
+                </div>
+            </nav>
+            
+            <!-- Header-->
+            <header class="py-5" >
+                <div class="container px-0">
+                    <div class="row gx-5 align-items-center justify-content-center">
+
+                        <div class="col-xl-2 col-xxl-2 d-none d-xl-block text-center m-3"><img class="img-fluid p-3 rounded" id="image_chantier" src="" style="background-color:#005e9e;"/></div>
+                        
+                        <div class="col-lg-10 col-xl-9 col-xxl-8">
+                            <div class="my-5 mx-3 text-start text-xl-start px-4">
+                                <h3 class="fw-bolder mb-2 text-dark" id="chantier">Chantier 1</h3>
+                                <p class="lead fw-normal text-dark mb-4" id="nom_chantier">Une formation professionnelle accessible et à la fine pointe des technologies, et qui intègre les compétences clés.</p>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </header>
+
+
+
+            <div id="sous-chantiers">
+
+            </div>
+            
+        </main>
+        <!-- Footer-->
+        <footer class="py-4 mt-auto" style="background-color: #005e9e;">
+            <div class="container px-5">
+                <div class="row align-items-center justify-content-center flex-column flex-sm-row">
+                    <div class="col-auto"><div class="small m-0 text-white text-center">&copy; Ministère de l'Éducation du Québec - <span id="currentYear"></span></div></div>
+                </div>
+            </div>
+        </footer>
+
+        <script>
+            var currentYear = new Date().getFullYear();
+            document.getElementById('currentYear').textContent = currentYear;
+        </script>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+
+        <script>
+            var chantierCategorieWordpress = {};
+            chantierCategorieWordpress["1"] = "81";
+            chantierCategorieWordpress["2"] = "82";
+            chantierCategorieWordpress["3"] = "83";
+            chantierCategorieWordpress["4"] = "84";
+
+            var WORDPRESS_CONTENT_API_URL = "https://carrefourfp.ca/mfp/wp-json/wp/v2/sous-chantier?categories="
+
+            function getURLParameter(name) {
+                const queryString = window.location.search;
+                const urlParams = new URLSearchParams(queryString);
+                return urlParams.get(name);
+            }
+
+            var numeroChantier = getURLParameter("n");
+
+            
+            if (numeroChantier != "1" && numeroChantier != "2" && numeroChantier != "3" && numeroChantier != "4") {
+                window.location.replace("404.html");
+            }
+            
+
+            document.getElementById('chantier').innerHTML = 'Chantier ' + numeroChantier;
+            document.getElementById('image_chantier').src = 'assets/images/icones_chantier/chantier-' + numeroChantier + '.svg';
+            
+            var nomChantier = "";
+
+            switch(numeroChantier) {
+                case "1":
+                    nomChantier = "Une formation professionnelle accessible à la fine pointe des technologies, et qui intègre les compétences clés.";
+                    break;
+                case "2":
+                    nomChantier = "Une formation professionnelle accessible qui offre des parcours et des programmes d’études fluides, modernes et flexibles.";
+                    break;
+                case "3":
+                    nomChantier = "Une formation professionnelle accessible qui fait une place à toutes et à tous, en offrant les meilleures conditions.";
+                    break;
+                case "4":
+                    nomChantier = "Une formation professionnelle accessible et qui repose sur la synergie de tous les partenaires impliqués";
+                    break;
+                default:
+                    // code block
+            }
+            
+            document.getElementById('nom_chantier').innerHTML = nomChantier;
+                        
+            
+            WORDPRESS_CONTENT_API_URL = WORDPRESS_CONTENT_API_URL + chantierCategorieWordpress[numeroChantier];
+
+            console.log(WORDPRESS_CONTENT_API_URL);
+            
+            // Create a new XMLHttpRequest object
+            const xhr = new XMLHttpRequest();
+
+            // Open the request synchronously
+            xhr.open('GET', WORDPRESS_CONTENT_API_URL, false); // Synchronous request
+
+            // Send the request
+            xhr.send();
+
+            // Check if request was successful
+            if (xhr.status !== 200) {
+                throw new Error(`Error: status: ${xhr.status}`);
+            }
+
+            // Parse the JSON response
+            const sousChantiersData = JSON.parse(xhr.responseText);
+
+            // Get the container element where data will be inserted
+            var container = document.getElementById('sous-chantiers');
+
+            // Initialize variable to toggle background color
+            var bgColorClass = 'bg-white';
+
+            // Loop through each object in the JSON array
+            sousChantiersData.forEach(function(item) {
+                // Toggle background color class
+                bgColorClass = bgColorClass === 'bg-white' ? 'bg-light' : 'bg-white';
+
+                // Create HTML content
+                var htmlContent = `
+                    <!-- About section one-->
+                    <section class="pt-5 pb-4 ${bgColorClass}" id="${item.id}">
+                        <div class="container px-5">
+                            <div class="row gx-5 align-items-top">
+                                <div class="col-lg-4 pb-3">
+                                    <h3 class="fw-bolder">${item.title.rendered}</h3>
+                                </div>
+                                <div class="col-lg-8 px-5">
+                                    <div class="fw-normal text-dark">${item.content.rendered}</div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                `;
+
+                // Insert HTML content into the container
+                container.insertAdjacentHTML('beforeend', htmlContent);
+            });
+
+        </script>
+    </body>
+</html>
