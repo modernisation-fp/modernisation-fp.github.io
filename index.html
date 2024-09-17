@@ -93,6 +93,39 @@
         font-weight: bold; /* Example of additional styling */
     }
   </style>
+
+  
+  <script>
+    // URL of the JSON data
+    const urlTexte1 = 'https://www.carrefourfp.ca/mfp/wp-json/wp/v2/texte-page-titre/17712'; // Replace with your actual URL
+    const urlTexte2 = 'https://www.carrefourfp.ca/mfp/wp-json/wp/v2/texte-page-titre/17714';
+    const urlTexte3 = 'https://www.carrefourfp.ca/mfp/wp-json/wp/v2/texte-page-titre/17706';
+
+    // Function to fetch JSON data and insert rendered content
+    async function fetchAndInsertContent(divId, url) {
+        try {
+            // Fetch the JSON data from the URL
+            const response = await fetch(url);
+
+            // Parse the JSON data
+            const data = await response.json();
+
+            // Extract the rendered content
+            const renderedContent = data.content.rendered;
+
+            // Insert the rendered content into the element with id "texte-1"
+            document.getElementById(divId).innerHTML = renderedContent;
+        } catch (error) {
+            console.error('Fetch error:', error);
+        }
+    }
+
+    // Execute the function
+    fetchAndInsertContent("texte-1", urlTexte1);
+    fetchAndInsertContent("texte-2", urlTexte2);
+    fetchAndInsertContent("texte-3", urlTexte3);
+  </script>
+
 </head>
 
 <body class="index-page">
@@ -119,9 +152,9 @@
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="#hero" class="text-light fw-bolder">Accueil</a></li>
-            <li><a href="#about" class="text-light">Actualités</a></li>
-            <li><a href="/#nous-joindre" class="text-light">Nous joindre</a></li>
+            <li><a href="/" class="text-light fw-bolder">Accueil</a></li>
+            <li><a href="actualites" class="text-light">Actualités</a></li>
+            <li><a href="#nous-joindre" class="text-light">Nous joindre</a></li>
             <!-- <li><a href="#portfolio">Portfolio</a></li>
             <li><a href="#team">Team</a></li>
             <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
@@ -143,7 +176,7 @@
             </li>
             <li><a href="#contact">Contact</a></li> -->
           </ul>
-          <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+          <i class="mobile-nav-toggle d-xl-none bi bi-list text-light"></i>
         </nav>
 
       </div>
@@ -351,7 +384,7 @@
     </section>
 
     <!-- Contact Section -->
-    <section id="contact nous-joindre" class="contact section bg-light">
+    <section id="nous-joindre" class="contact section bg-light">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
@@ -536,40 +569,6 @@
 
     displayPosts();
   </script>
-
-<script>
-  // URL of the JSON data
-  const urlTexte1 = 'https://www.carrefourfp.ca/mfp/wp-json/wp/v2/texte-page-titre/17712'; // Replace with your actual URL
-  const urlTexte2 = 'https://www.carrefourfp.ca/mfp/wp-json/wp/v2/texte-page-titre/17714';
-  const urlTexte3 = 'https://www.carrefourfp.ca/mfp/wp-json/wp/v2/texte-page-titre/17706';
-
-  // Function to fetch JSON data and insert rendered content
-  async function fetchAndInsertContent(divId, url) {
-      try {
-          // Fetch the JSON data from the URL
-          const response = await fetch(url);
-          if (!response.ok) {
-              throw new Error('Network response was not ok');
-          }
-
-          // Parse the JSON data
-          const data = await response.json();
-
-          // Extract the rendered content
-          const renderedContent = data.content.rendered;
-
-          // Insert the rendered content into the element with id "texte-1"
-          document.getElementById(divId).innerHTML = renderedContent;
-      } catch (error) {
-          console.error('Fetch error:', error);
-      }
-  }
-
-  // Execute the function
-  fetchAndInsertContent("texte-1", urlTexte1);
-  fetchAndInsertContent("texte-2", urlTexte2);
-  fetchAndInsertContent("texte-3", urlTexte3);
-</script>
 
 </body>
 
